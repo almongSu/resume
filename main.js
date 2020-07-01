@@ -28,7 +28,7 @@ var option = {
         type: 'radar',
         // areaStyle: {normal: {}},
         data: [{
-            value: [85, 70, 50, 50, 50, 70],
+            value: [85, 70, 60, 60, 60, 70],
             name: '能力雷达'
         }]
     }]
